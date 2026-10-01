@@ -1,0 +1,17 @@
+{
+  "name": "citedevidence",
+  "owner": {
+    "name": "CitedEvidence",
+    "email": "admin@videmak.org",
+    "url": "https://citedevidence.com"
+  },
+  "description": "Official CitedEvidence plugins.",
+  "plugins": [
+    {
+      "name": "citedevidence",
+      "source": "./plugins/citedevidence",
+      "description": "Search 250 million scholarly papers, check and format references, and run Deep Research and manuscript reviews with your CitedEvidence account.",
+      "version": "1.0.0"
+    }
+  ]
+}

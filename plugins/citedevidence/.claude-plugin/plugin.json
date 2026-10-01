@@ -1,0 +1,22 @@
+{
+  "name": "citedevidence",
+  "displayName": "CitedEvidence",
+  "version": "1.0.0",
+  "description": "Search 250 million scholarly papers, check and format references, and run Deep Research and manuscript reviews with your CitedEvidence account.",
+  "author": {
+    "name": "CitedEvidence",
+    "email": "admin@videmak.org",
+    "url": "https://citedevidence.com"
+  },
+  "homepage": "https://citedevidence.com/integrations/ai-assistants",
+  "repository": "https://github.com/Videmak/citedevidence-plugins",
+  "license": "MIT",
+  "keywords": [
+    "research",
+    "papers",
+    "citations",
+    "references",
+    "literature review",
+    "peer review"
+  ]
+}
